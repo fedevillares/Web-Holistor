@@ -1,0 +1,24 @@
+# Holistor
+
+> Holistor SA — 36 años (desde 1989) desarrollando software de gestión para PyMEs y estudios contables en Argentina. Dos líneas de producto: Holistor Gestión ERP y Holistor Estudios Contables. Certificación ISO 9001 desde 2007. Más de 90.000 usuarios activos y 5 sucursales en el país (CABA, Córdoba, Neuquén, Rosario, Chaco).
+
+Este archivo sigue la convención llms.txt para facilitar que agentes y modelos de lenguaje descubran y lean el contenido del sitio. Cada página HTML tiene una versión equivalente en Markdown (mismo nombre, extensión .md) con el mismo contenido en texto plano estructurado.
+
+## Páginas principales
+
+- [Inicio](https://www.holistor.com.ar/): Presentación de Holistor, productos, cifras clave y sucursales. Versión Markdown: /index.md
+- [Nosotros](https://www.holistor.com.ar/nosotros): Historia de la empresa, misión, visión, valores, política de calidad y testimonios de clientes. Versión Markdown: /nosotros.md
+- [Holistor Gestión ERP](https://www.holistor.com.ar/productos-erp): Software ERP para PyMEs — módulos de Ventas, Compras, Tesorería, Stock, Exportaciones Provinciales, Contabilidad, Impuestos, Estadísticas y Administración. Versión Markdown: /productos-erp.md
+- [Holistor Estudios Contables](https://www.holistor.com.ar/productos-contable): Software para estudios contables — Sueldos y Jornales WEB, IVA Registración, Contabilidad WEB, Personas Físicas y Jurídicas, Liquidaciones Mensuales, Planificación de Estudios, Regímenes de Información. Versión Markdown: /productos-contable.md
+- [Planes](https://www.holistor.com.ar/planes): Planes y precios de Holistor Gestión ERP y Holistor Estudios Contables, con opción de armar un plan a medida por módulos. Versión Markdown: /planes.md
+- [Contacto](https://www.holistor.com.ar/contacto): Formulario de contacto, red de distribuidores y detalle de las 5 sucursales con teléfonos y direcciones. Versión Markdown: /contacto.md
+
+## Recursos adicionales
+
+- [Sitemap XML](https://www.holistor.com.ar/sitemap.xml): Mapa del sitio para motores de búsqueda.
+- [robots.txt](https://www.holistor.com.ar/robots.txt): Reglas de rastreo para crawlers.
+
+## Contacto
+
+Email: info@holistor.com.ar
+Sucursales: CABA (+54 11 5217-3365), Córdoba (+54 351 571-6781), Neuquén (+54 299 436-0851), Rosario (+54 341 528-6200), Chaco (+54 362 467-2097)

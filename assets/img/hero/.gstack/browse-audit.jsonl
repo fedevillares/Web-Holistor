@@ -1,0 +1,2 @@
+{"ts":"2026-09-10T20:53:26.538Z","cmd":"viewport","args":"1440x900","origin":"about:blank","durationMs":8,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-10T20:53:26.794Z","cmd":"goto","args":"file:///C:/Users/PC-1/Desktop/WebHolistor/nosotros.html","origin":"about:blank","durationMs":2,"status":"error","hasCookies":false,"mode":"launched","error":"Path must be within: C:\\Users\\PC-1\\AppData\\Local\\Temp, C:\\Users\\PC-1\\Desktop\\WebHolistor\\assets\\img\\hero"}
